@@ -2,7 +2,7 @@
 
 Rápida descrição do objetivo de fazer esse projeto
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev | Filipe Paulo |
 | -------------  | --- |
 | :sparkles: Nome        | Sonic o Filme
 | :label: Tecnologias | HTML, CSS, JAVASCRIPT
